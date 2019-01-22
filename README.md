@@ -7,6 +7,6 @@
   - Digit recognition using Naive Baysian Algorithm
   - Solving N-Queens using Gibbs, Monte-Carlo and Hill-Climbing Algorithm + Comparison
   - Simulated Annealing Algorithm
-  - Population based Genetic Algorithm
+  - Population based search and Genetic Algorithm
   - K-Means Algorithm
 
