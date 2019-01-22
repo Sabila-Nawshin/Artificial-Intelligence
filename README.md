@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-Different algorithms learned on the AI lab
+Artificial Intelligence Lab Materials
