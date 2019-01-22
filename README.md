@@ -9,5 +9,4 @@
   - Simulated Annealing Algorithm
   - Population based Genetic Algorithm
   - K-Means Algorithm
-  
-  etc
+
