@@ -1,7 +1,7 @@
 # Artificial Intelligence Lab Materials
 
   - Kth Nearest Neighbour Algorithm (Binary and multi-class)
-  - Linear Regression (Single and Multi-variable) using Gradient Descent
+  - Gradient Descent for solving Linear Regression (Single and Multi-variable)
   - Logistic regression
   - Digit recongnition using KNN
   - Digit recognition using Naive Baysian Algorithm
