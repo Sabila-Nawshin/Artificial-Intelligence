@@ -1,1 +1,4 @@
-Not properly working yet.
+# K-Means Clustering
+
+K-means.ipunb : Not properly working yet, tried to write the algorithm by hand.
+Scikit-learn-k-means(titanic) : The titanic problem from kaggle solved using scikit learn library's k-means function.
