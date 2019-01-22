@@ -1,6 +1,6 @@
 # Artificial Intelligence Lab Materials
 
-  - Kth Nearest Neighbour Algorithm
+  - Kth Nearest Neighbour Algorithm (Binary and multi-class)
   - Linear Regression using Gradient Descent
   - Multi-variable linear regression
   - Logistic regression
