@@ -5,9 +5,9 @@
   - Logistic regression
   - Digit recongnition using KNN
   - Digit recognition using Naive Baysian Algorithm
-  - Gibbs Algorithm, Monte-Carlo Algorithm
+  - Gibbs Algorithm, Monte-Carlo, Hill-Climbing Algorithm
   - Simulated Annealing Algorithm
   - Population based Genetic Algorithm
-  - KMeans Algorithm
+  - K-Means Algorithm
   
   etc
